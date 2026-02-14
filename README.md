@@ -6,4 +6,4 @@ Install JDK 25 from https://download.oracle.com/java/25/latest/jdk-25_windows-x6
 
 Run it accept all agreements shown
 Run the builder
-Enjoy
+Enjoy!
